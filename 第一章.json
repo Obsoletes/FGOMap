@@ -1,7 +1,7 @@
 {
 	"Name": "奥尔良",
 	"Map": [{
-		"Name": "马赛",
+		"Dungeon": "马赛",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "僵尸",
@@ -15,7 +15,7 @@
 		}],
 		"Drop": ["英雄之证", null, null, null, null, "睿智的种火(Lancer)", "量子"]
 	}, {
-		"Name": "里昂",
+		"Dungeon": "里昂",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "影从者",
@@ -32,7 +32,7 @@
 		}],
 		"Drop": [null, "英雄之证", "剑之辉石", null, null, null, "睿智的种火(Lancer)", null, "量子"]
 	}, {
-		"Name": "汝拉",
+		"Dungeon": "汝拉",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "影从者",
@@ -52,7 +52,7 @@
 		}],
 		"Drop": [null, null, "龙牙", null, "枪之辉石", "骑之辉石", "杀之辉石", null, null, null, "睿智的种火(Rider)", null, "量子"]
 	}, {
-		"Name": "拉沙里泰",
+		"Dungeon": "拉沙里泰",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "恐惧飞龙",
@@ -66,7 +66,7 @@
 		}],
 		"Drop": [null, null, null, null, null, null, null, "量子"]
 	}, {
-		"Name": "沃库勒尔",
+		"Dungeon": "沃库勒尔",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "双足飞龙",
@@ -77,7 +77,7 @@
 		}],
 		"Drop": [null, null, null, "骑之辉石", null, null, null, "量子"]
 	}, {
-		"Name": "栋雷米",
+		"Dungeon": "栋雷米",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "法国士兵",
@@ -91,7 +91,7 @@
 		}],
 		"Drop": [null, null, "枪之辉石", "睿智的种火(Saber)", "睿智的种火(Lancer)", "量子"]
 	}, {
-		"Name": "蒂耶尔",
+		"Dungeon": "蒂耶尔",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "影从者",
@@ -105,7 +105,7 @@
 		}],
 		"Drop": [null, "龙牙", "骑之辉石", "狂阶银棋", null, null, null, "量子"]
 	}, {
-		"Name": "波多尔",
+		"Dungeon": "波多尔",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "狼人",
@@ -119,7 +119,7 @@
 		}],
 		"Drop": [null, null, "枪之辉石", null, null, null, null, "量子"]
 	}, {
-		"Name": "奥尔良",
+		"Dungeon": "奥尔良",
 		"AP": 8,
 		"Enemy": [{
 			"Name": "影从者",
@@ -136,7 +136,7 @@
 		}],
 		"Drop": ["虚影之尘", null, "凶骨", null, null, "骑之辉石", null, null, null, null, null, "量子"]
 	}, {
-		"Name": "巴黎",
+		"Dungeon": "巴黎",
 		"AP": 13,
 		"Enemy": [{
 			"Name": "影从者",

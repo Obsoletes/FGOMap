@@ -1,7 +1,7 @@
 {
 	"Name": "新宿",
 	"Map": [{
-		"Name": "新宿御园",
+		"Dungeon": "新宿御园",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "恶魔",
@@ -12,7 +12,7 @@
 		}],
 		"Drop": [null, null, null, "术之辉石", "睿智的灯火(Caster)", null, null, "量子"]
 	}, {
-		"Name": "新宿四丁目",
+		"Dungeon": "新宿四丁目",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "超级奇美拉君",
@@ -23,7 +23,7 @@
 		}],
 		"Drop": [null, "魔术髓液", null, "术之辉石", "睿智的灯火(Caster)", null, null, "量子"]
 	}, {
-		"Name": "新宿二丁目",
+		"Dungeon": "新宿二丁目",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "观察机",
@@ -49,7 +49,7 @@
 		}],
 		"Drop": [null, "禁断书页", null, null, "术之辉石", null, null, null, null, null, "量子"]
 	}, {
-		"Name": "新宿站",
+		"Dungeon": "新宿站",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "雀蜂",
@@ -60,7 +60,7 @@
 		}],
 		"Drop": [null, "弓之魔石", null, "睿智的灯火(Archer)", null, "量子"]
 	}, {
-		"Name": "歌舞伎町",
+		"Dungeon": "歌舞伎町",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "花腔歌手",
@@ -71,7 +71,7 @@
 		}],
 		"Drop": ["无间齿轮", "虚影之尘", "杀之魔石", "睿智的大火(Assassin)", null, "量子"]
 	}, {
-		"Name": "国道20号",
+		"Dungeon": "国道20号",
 		"AP": 0,
 		"Enemy": [{
 			"Name": "影从者",
@@ -85,12 +85,12 @@
 		}],
 		"Drop": ["虚影之尘", "魔术髓液", null, null, null, null, "量子"]
 	}, {
-		"Name": "居所",
+		"Dungeon": "居所",
 		"AP": null,
 		"Enemy": null,
 		"Drop": null
 	}, {
-		"Name": "代代木二丁目",
+		"Dungeon": "代代木二丁目",
 		"AP": 20,
 		"Enemy": [{
 			"Name": "小混混",
@@ -98,7 +98,7 @@
 		}],
 		"Drop": [null, "术之辉石", null, null, "量子"]
 	}, {
-		"Name": "舞会会场",
+		"Dungeon": "舞会会场",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "影从者",
@@ -115,7 +115,7 @@
 		}],
 		"Drop": [null, "虚影之尘", "魔术髓液", null, "杀之魔石", null, "睿智的大火(Archer)", "睿智的大火(Assassin)", "量子"]
 	}, {
-		"Name": "枪身塔",
+		"Dungeon": "枪身塔",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "花腔歌手",
@@ -123,7 +123,7 @@
 		}],
 		"Drop": ["无间齿轮", null, "睿智的大火(Assassin)", "量子"]
 	}, {
-		"Name": "塔顶楼",
+		"Dungeon": "塔顶楼",
 		"AP": 21,
 		"Enemy": [{
 			"Name": "李尔王",

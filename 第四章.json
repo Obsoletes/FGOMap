@@ -1,7 +1,7 @@
 {
 	"Name": "伦敦",
 	"Map": [{
-		"Name": "伦敦城",
+		"Dungeon": "伦敦城",
 		"AP": 15,
 		"Enemy": [{
 			"Name": "人工生命体",
@@ -9,7 +9,7 @@
 		}],
 		"Drop": ["人工生命体幼体", "枪之辉石", "睿智的种火(Lancer)", "量子"]
 	}, {
-		"Name": "白色教堂",
+		"Dungeon": "白色教堂",
 		"AP": 15,
 		"Enemy": [{
 			"Name": "影从者",
@@ -23,7 +23,7 @@
 		}],
 		"Drop": [null, "虚影之尘", null, "杀之辉石", null, null, "睿智的种火(Assassin)", "睿智的灯火(Assassin)", "量子"]
 	}, {
-		"Name": "旧街",
+		"Dungeon": "旧街",
 		"AP": 15,
 		"Enemy": [{
 			"Name": "杀戮人偶",
@@ -31,7 +31,7 @@
 		}],
 		"Drop": [null, null, "睿智的种火(Assassin)", "量子"]
 	}, {
-		"Name": "摄政公园",
+		"Dungeon": "摄政公园",
 		"AP": 16,
 		"Enemy": [{
 			"Name": "混沌机械兵",
@@ -45,7 +45,7 @@
 		}],
 		"Drop": [null, "无间齿轮", null, "剑之辉石", "术之辉石", "睿智的种火(Saber)", "睿智的种火(Caster)", "量子"]
 	}, {
-		"Name": "苏活区",
+		"Dungeon": "苏活区",
 		"AP": 16,
 		"Enemy": [{
 			"Name": "影从者",
@@ -65,7 +65,7 @@
 		}],
 		"Drop": [null, "无间齿轮", "虚影之尘", null, null, "枪之辉石", null, null, null, null, null, null, null, "量子"]
 	}, {
-		"Name": "威斯敏斯特",
+		"Dungeon": "威斯敏斯特",
 		"AP": 16,
 		"Enemy": [{
 			"Name": "影从者",
@@ -79,7 +79,7 @@
 		}],
 		"Drop": [null, "虚影之尘", null, "枪之辉石", null, null, null, "睿智的大火(Lancer)", "睿智的灯火(Caster)", "量子"]
 	}, {
-		"Name": "克勒肯维尔",
+		"Dungeon": "克勒肯维尔",
 		"AP": 18,
 		"Enemy": [{
 			"Name": "陈旧人偶",
@@ -96,7 +96,7 @@
 		}],
 		"Drop": ["无间齿轮", "凶骨", null, "杀之魔石", null, "杀之辉石", null, null, null, "量子"]
 	}, {
-		"Name": "萨瑟克",
+		"Dungeon": "萨瑟克",
 		"AP": 19,
 		"Enemy": [{
 			"Name": "人工生命体原型",
@@ -110,7 +110,7 @@
 		}],
 		"Drop": ["人工生命体幼体", "凶骨", null, null, "枪之辉石", null, "睿智的大火(Lancer)", null, "量子"]
 	}, {
-		"Name": "海德公园",
+		"Dungeon": "海德公园",
 		"AP": 20,
 		"Enemy": [{
 			"Name": "魔导书",

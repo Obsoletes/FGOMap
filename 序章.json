@@ -1,7 +1,7 @@
 {
 	"Name": "冬木",
 	"Map": [{
-		"Name": "未确认坐标点X-A",
+		"Dungeon": "未确认坐标点X-A",
 		"AP": 3,
 		"Enemy": [{
 			"Name": "骷髅兵",
@@ -9,7 +9,7 @@
 		}],
 		"Drop": []
 	}, {
-		"Name": "未确认坐标点X-C",
+		"Dungeon": "未确认坐标点X-C",
 		"AP": 4,
 		"Enemy": [{
 			"Name": "骷髅兵",
@@ -20,7 +20,7 @@
 		}],
 		"Drop": [null, "剑之辉石", null, "睿智的种火(Saber)", null, "量子"]
 	}, {
-		"Name": "未确认坐标点X-B",
+		"Dungeon": "未确认坐标点X-B",
 		"AP": 4,
 		"Enemy": [{
 			"Name": "骷髅兵",
@@ -31,7 +31,7 @@
 		}],
 		"Drop": [null, null, null, null, null, "量子"]
 	}, {
-		"Name": "未确认坐标点X-E",
+		"Dungeon": "未确认坐标点X-E",
 		"AP": 5,
 		"Enemy": [{
 			"Name": "影从者",
@@ -45,7 +45,7 @@
 		}],
 		"Drop": ["虚影之尘", null, null, null, null, null, "睿智的种火(Archer)", "睿智的种火(Rider)", "量子"]
 	}, {
-		"Name": "未确认坐标点X-D",
+		"Dungeon": "未确认坐标点X-D",
 		"AP": 5,
 		"Enemy": [{
 			"Name": "骷髅兵",
@@ -56,7 +56,7 @@
 		}],
 		"Drop": ["凶骨", "剑之辉石", null, null, "睿智的种火(Archer)", "量子"]
 	}, {
-		"Name": "未确认坐标点X-F",
+		"Dungeon": "未确认坐标点X-F",
 		"AP": 6,
 		"Enemy": [{
 			"Name": "影从者",
@@ -73,7 +73,7 @@
 		}],
 		"Drop": [null, null, null, null, null, null, null, null, null, null, "量子"]
 	}, {
-		"Name": "变动坐标点0号",
+		"Dungeon": "变动坐标点0号",
 		"AP": 7,
 		"Enemy": [{
 			"Name": "影从者",
@@ -90,7 +90,7 @@
 		}],
 		"Drop": [null, "龙牙", null, null, null, null, null, "睿智的种火(Saber)", "睿智的种火(Archer)", "睿智的种火(Assassin)", "量子"]
 	}, {
-		"Name": "未确认坐标点X-G",
+		"Dungeon": "未确认坐标点X-G",
 		"AP": 15,
 		"Enemy": [{
 			"Name": "骷髅兵",
