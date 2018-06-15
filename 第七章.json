@@ -1,12 +1,150 @@
 {
 	"Name": "巴比伦尼亚",
 	"Map": [{
-		"Name": "",
-		"AP": 0,
+		"Name": "埃里都",
+		"AP": 21,
 		"Enemy": [{
 			"Name": "",
 			"Class": ""
 		}],
+		"Drop": ["龙之牙", null, null, null, "睿智的灯火(Rider)", null, "量子"]
+	}, {
+		"Name": "乌尔",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, null, "剑之魔石", null, "狂之魔石", null, "睿智的灯火(Rider)", "睿智的大火(Berserker)", "量子"]
+	}, {
+		"Name": "湿地",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": ["蛇之宝玉", "万死的毒针", "弓之魔石", "枪之辉石", null, null, "量子"]
+	}, {
+		"Name": "观测所",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": ["追忆的贝壳", null, "剑之辉石", null, null, null, "量子"]
+	}, {
+		"Name": "乌鲁克市内",
+		"AP": null,
+		"Enemy": null,
+		"Drop": null
+	}, {
+		"Name": "大使馆",
+		"AP": null,
+		"Enemy": null,
+		"Drop": null
+	}, {
+		"Name": "天之丘",
+		"AP": null,
+		"Enemy": null,
+		"Drop": null
+	}, {
+		"Name": "神塔",
+		"AP": null,
+		"Enemy": null,
+		"Drop": null
+	}, {
+		"Name": "芦苇原",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": ["万死的毒针", "枪之辉石", "睿智的灯火(Lancer)", null, "量子"]
+	}, {
+		"Name": "库撒",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, null, "杀之辉石", null, null, null, null, "量子"]
+	}, {
+		"Name": "艾比夫山",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, null, null, "狂之魔石", null, null, "量子"]
+	}, {
+		"Name": "艾比夫山(?)",
+		"AP": 21,
+		"Enemy": [],
 		"Drop": []
+	}, {
+		"Name": "北壁",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, "万死的毒针", null, "枪之辉石", null, null, "睿智的猛火(Rider)", "量子"]
+	}, {
+		"Name": "尼普尔",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, "万死的毒针", "骑之秘石", "枪之辉石", null, "睿智的大火(Lancer)", null, "量子"]
+	}, {
+		"Name": "高原",
+		"AP": 20,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, "万死的毒针", null, "骑之辉石", null, null, null, "量子"]
+	}, {
+		"Name": "北之高台",
+		"AP": 20,
+		"Enemy": [{
+			"Name": "乌利迪姆",
+			"Class": "Rider"
+		}],
+		"Drop": [null, "世界树之种", null, null, "睿智的大火(Rider)", null, "量子"]
+	}, {
+		"Name": "废都巴比伦",
+		"AP": 20,
+		"Enemy": [{
+			"Name": "乌修穆伽尔",
+			"Class": "Assassin"
+		},{
+			"Name": "乌利迪姆",
+			"Class": "Rider"
+		}],
+		"Drop": ["世界树之种", "骑之辉石", "睿智的大火(Rider)", "量子"]
+	}, {
+		"Name": "黑色杉木林",
+		"AP": 20,
+		"Enemy": [{
+			"Name": "乌伽尔",
+			"Class": "Rider"
+		},{
+			"Name": "乌利迪姆",
+			"Class": "Rider"
+		}],
+		"Drop": ["起源的胎毛", null, null, "骑之辉石", "睿智的大火(Rider)", null, "量子"]
+	}, {
+		"Name": "鲜血神殿",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "乌伽尔",
+			"Class": "Rider"
+		},{
+			"Name": "乌利迪姆",
+			"Class": "Rider"
+		}],
+		"Drop": [null, null, null, "骑之辉石", null, "睿智的猛火(Rider)", "量子"]
 	}]
 }
