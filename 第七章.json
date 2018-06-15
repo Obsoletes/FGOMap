@@ -1,62 +1,6 @@
 {
 	"Name": "巴比伦尼亚",
 	"Map": [{
-		"Dungeon": "埃里都",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "原始双足飞龙",
-			"Class": "Rider"
-		}, {
-			"Name": "恶魔飞龙",
-			"Class": "Rider"
-		}, {
-			"Name": "恐惧飞龙",
-			"Class": "Rider"
-		}, {
-			"Name": "双足飞龙",
-			"Class": "Rider"
-		}],
-		"Drop": ["龙之牙", null, null, null, "睿智的灯火(Rider)", null, "量子"]
-	}, {
-		"Dungeon": "乌尔",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "奇美拉",
-			"Class": "Berserker"
-		}, {
-			"Name": "豹人",
-			"Class": "Saber"
-		}, {
-			"Name": "豹人",
-			"Class": "Assassin"
-		}],
-		"Drop": [null, null, "剑之魔石", null, "狂之魔石", null, "睿智的灯火(Rider)", "睿智的大火(Berserker)", "量子"]
-	}, {
-		"Dungeon": "湿地",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "穆修玛夫",
-			"Class": "Archer"
-		}, {
-			"Name": "穆修胡休",
-			"Class": "Lancer"
-		}],
-		"Drop": ["蛇之宝玉", "万死的毒针", "弓之魔石", "枪之辉石", null, null, "量子"]
-	}, {
-		"Dungeon": "观测所",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "千年寄居蟹",
-			"Class": "Saber"
-		}, {
-			"Name": "毒寄居蟹",
-			"Class": "Saber"
-		}, {
-			"Name": "大寄居蟹",
-			"Class": "Saber"
-		}],
-		"Drop": ["追忆的贝壳", null, "剑之辉石", null, null, null, "量子"]
-	}, {
 		"Dungeon": "乌鲁克市内",
 		"AP": null,
 		"Enemy": null,
@@ -76,66 +20,6 @@
 		"AP": null,
 		"Enemy": null,
 		"Drop": null
-	}, {
-		"Dungeon": "芦苇原",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "穆修胡休",
-			"Class": "Lancer"
-		}],
-		"Drop": ["万死的毒针", "枪之辉石", "睿智的灯火(Lancer)", null, "量子"]
-	}, {
-		"Dungeon": "库撒",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "巨大鬼魂",
-			"Class": "Assassin"
-		}, {
-			"Name": "古代鬼魂",
-			"Class": "Assassin"
-		}, {
-			"Name": "恐怖鬼魂",
-			"Class": "Assassin"
-		}, {
-			"Name": "鬼魂",
-			"Class": "Assassin"
-		}],
-		"Drop": [null, null, "杀之辉石", null, null, null, null, "量子"]
-	}, {
-		"Dungeon": "艾比夫山",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "巨大魔猪",
-			"Class": "Berserker"
-		}, {
-			"Name": "魔猪",
-			"Class": "Berserker"
-		}],
-		"Drop": [null, null, null, "狂之魔石", null, null, "量子"]
-	}, {
-		"Dungeon": "艾比夫山(?)",
-		"AP": 21,
-		"Enemy": [],
-		"Drop": []
-	}, {
-		"Dungeon": "北壁",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "巴修穆",
-			"Class": "Rider"
-		}, {
-			"Name": "穆修胡休",
-			"Class": "Lancer"
-		}],
-		"Drop": [null, "万死的毒针", null, "枪之辉石", null, null, "睿智的猛火(Rider)", "量子"]
-	}, {
-		"Dungeon": "尼普尔",
-		"AP": 21,
-		"Enemy": [{
-			"Name": "",
-			"Class": ""
-		}],
-		"Drop": [null, "万死的毒针", "骑之秘石", "枪之辉石", null, "睿智的大火(Lancer)", null, "量子"]
 	}, {
 		"Dungeon": "高原",
 		"AP": 20,
@@ -177,6 +61,122 @@
 			"Class": "Rider"
 		}],
 		"Drop": ["起源的胎毛", null, null, "骑之辉石", "睿智的大火(Rider)", null, "量子"]
+	}, {
+		"Dungeon": "库撒",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "巨大鬼魂",
+			"Class": "Assassin"
+		}, {
+			"Name": "古代鬼魂",
+			"Class": "Assassin"
+		}, {
+			"Name": "恐怖鬼魂",
+			"Class": "Assassin"
+		}, {
+			"Name": "鬼魂",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "杀之辉石", null, null, null, null, "量子"]
+	}, {
+		"Dungeon": "乌尔",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "奇美拉",
+			"Class": "Berserker"
+		}, {
+			"Name": "豹人",
+			"Class": "Saber"
+		}, {
+			"Name": "豹人",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "剑之魔石", null, "狂之魔石", null, "睿智的灯火(Rider)", "睿智的大火(Berserker)", "量子"]
+	}, {
+		"Dungeon": "艾比夫山",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "巨大魔猪",
+			"Class": "Berserker"
+		}, {
+			"Name": "魔猪",
+			"Class": "Berserker"
+		}],
+		"Drop": [null, null, null, "狂之魔石", null, null, "量子"]
+	}, {
+		"Dungeon": "艾比夫山(?)",
+		"AP": 21,
+		"Enemy": [],
+		"Drop": []
+	}, {
+		"Dungeon": "北壁",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "巴修穆",
+			"Class": "Rider"
+		}, {
+			"Name": "穆修胡休",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "万死的毒针", null, "枪之辉石", null, null, "睿智的猛火(Rider)", "量子"]
+	}, {
+		"Dungeon": "尼普尔",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "",
+			"Class": ""
+		}],
+		"Drop": [null, "万死的毒针", "骑之秘石", "枪之辉石", null, "睿智的大火(Lancer)", null, "量子"]
+	}, {
+		"Dungeon": "湿地",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "穆修玛夫",
+			"Class": "Archer"
+		}, {
+			"Name": "穆修胡休",
+			"Class": "Lancer"
+		}],
+		"Drop": ["蛇之宝玉", "万死的毒针", "弓之魔石", "枪之辉石", null, null, "量子"]
+	}, {
+		"Dungeon": "观测所",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "千年寄居蟹",
+			"Class": "Saber"
+		}, {
+			"Name": "毒寄居蟹",
+			"Class": "Saber"
+		}, {
+			"Name": "大寄居蟹",
+			"Class": "Saber"
+		}],
+		"Drop": ["追忆的贝壳", null, "剑之辉石", null, null, null, "量子"]
+	}, {
+		"Dungeon": "埃里都",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "原始双足飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "恶魔飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "恐惧飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}],
+		"Drop": ["龙之牙", null, null, null, "睿智的灯火(Rider)", null, "量子"]
+	}, {
+		"Dungeon": "芦苇原",
+		"AP": 21,
+		"Enemy": [{
+			"Name": "穆修胡休",
+			"Class": "Lancer"
+		}],
+		"Drop": ["万死的毒针", "枪之辉石", "睿智的灯火(Lancer)", null, "量子"]
 	}, {
 		"Dungeon": "鲜血神殿",
 		"AP": 21,
