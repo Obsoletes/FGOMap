@@ -1,0 +1,164 @@
+{
+	"Name": "七丘之城",
+	"Map": [{
+		"Name": "埃特纳火山",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "鬼魂",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, "杀之辉石", null, "量子"]
+	}, {
+		"Name": "亚壁街道",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Saber"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Archer"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "英雄之证", "剑之辉石", null, null, null, "睿智的种火(Saber)", null, null, null, "量子"]
+	}, {
+		"Name": "罗马",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "莽汉",
+			"Class": "Saber"
+		}, {
+			"Name": "莽汉",
+			"Class": "Lancer"
+		}],
+		"Drop": ["英雄之证", null, null, null, null, "量子"]
+	}, {
+		"Name": "佛罗伦萨",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "联合罗马士兵",
+			"Class": "Saber"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Archer"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": ["英雄之证", null, "弓之辉石", null, "睿智的种火(Saber)", "睿智的种火(Lancer)", "睿智的种火(Archer)", "量子"]
+	}, {
+		"Name": "有形之岛",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "凶骨", null, null, null, null, "睿智的种火(Archer)", null, "量子"]
+	}, {
+		"Name": "梅迪奥兰",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "联合罗马士兵",
+			"Class": "Saber"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, null, null, null, "睿智的种火(Lancer)", "量子"]
+	}, {
+		"Name": "玛西格利亚",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Rider"
+		}, {
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Saber"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": ["虚影之尘", null, null, null, null, null, "睿智的种火(Saber)", null, "睿智的种火(Rider)", null, "量子"]
+	}, {
+		"Name": "联军首都",
+		"AP": 10,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "石魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "石魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Archer"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Saber"
+		}],
+		"Drop": [null, null, "英雄之证", "剑之辉石", "弓之辉石", null, "狂阶银棋", null, null, "睿智的种火(Berserker)", "睿智的灯火(Berserker)", "量子"]
+	}, {
+		"Name": "高卢",
+		"AP": 9,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Saber"
+		}, {
+			"Name": "石魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Archer"
+		}, {
+			"Name": "联合罗马士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, null, "英雄之证", null, "枪之辉石", "狂之辉石", "酱阶银棋", null, "睿智的种火(Lancer)", null, "睿智的种火(Berserker)", "量子"]
+	}, {
+		"Name": "不列颠尼亚",
+		"AP": 10,
+		"Enemy": [{
+			"Name": "狼人",
+			"Class": "Saber"
+		}, {
+			"Name": "狼人",
+			"Class": "Lancer"
+		}, {
+			"Name": "狼人",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, "剑之辉石", null, null, "睿智的种火(Saber)", null, null, "量子"]
+	}, {
+		"Name": "日耳曼尼亚",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "奇美拉",
+			"Class": "Berserker"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "凶骨", null, "剑之辉石", null, null, null, null, null, null, null, "量子"]
+	}]
+}

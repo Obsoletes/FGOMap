@@ -1,0 +1,156 @@
+{
+	"Name": "奥尔良",
+	"Map": [{
+		"Name": "马赛",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "僵尸",
+			"Class": "Saber"
+		}, {
+			"Name": "僵尸",
+			"Class": "Saber"
+		}, {
+			"Name": "僵尸",
+			"Class": "Lancer"
+		}],
+		"Drop": ["英雄之证", null, null, null, null, "睿智的种火(Lancer)", "量子"]
+	}, {
+		"Name": "里昂",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Assassin"
+		}, {
+			"Name": "僵尸",
+			"Class": "Saber"
+		}, {
+			"Name": "僵尸",
+			"Class": "Saber"
+		}, {
+			"Name": "僵尸",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "英雄之证", "剑之辉石", null, null, null, "睿智的种火(Lancer)", null, "量子"]
+	}, {
+		"Name": "汝拉",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Rider"
+		}, {
+			"Name": "恐惧飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "狼人",
+			"Class": "Saber"
+		}, {
+			"Name": "狼人",
+			"Class": "Lancer"
+		}, {
+			"Name": "狼人",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "龙牙", null, "枪之辉石", "骑之辉石", "杀之辉石", null, null, null, "睿智的种火(Rider)", null, "量子"]
+	}, {
+		"Name": "拉沙里泰",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "恐惧飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "僵尸",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, null, null, null, null, null, null, "量子"]
+	}, {
+		"Name": "沃库勒尔",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}],
+		"Drop": [null, null, null, "骑之辉石", null, null, null, "量子"]
+	}, {
+		"Name": "栋雷米",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "法国士兵",
+			"Class": "Saber"
+		}, {
+			"Name": "法国士兵",
+			"Class": "Assassin"
+		}, {
+			"Name": "法国士兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, null, "枪之辉石", "睿智的种火(Saber)", "睿智的种火(Lancer)", "量子"]
+	}, {
+		"Name": "蒂耶尔",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "恐惧飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}],
+		"Drop": [null, "龙牙", "骑之辉石", "狂阶银棋", null, null, null, "量子"]
+	}, {
+		"Name": "波多尔",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "狼人",
+			"Class": "Saber"
+		}, {
+			"Name": "狼人",
+			"Class": "Lancer"
+		}, {
+			"Name": "狼人",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "枪之辉石", null, null, null, null, "量子"]
+	}, {
+		"Name": "奥尔良",
+		"AP": 8,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Caster"
+		}, {
+			"Name": "恶魔飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": ["虚影之尘", null, "凶骨", null, null, "骑之辉石", null, null, null, null, null, "量子"]
+	}, {
+		"Name": "巴黎",
+		"AP": 13,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Ruler"
+		}, {
+			"Name": "恶魔飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": [null, null, "凶骨", null, null, "骑之辉石", null, null, null, "睿智的种火(Saber)", null, null, "量子"]
+	}]
+}

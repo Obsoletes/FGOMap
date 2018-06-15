@@ -1,0 +1,107 @@
+{
+	"Name": "冬木",
+	"Map": [{
+		"Name": "未确认坐标点X-A",
+		"AP": 3,
+		"Enemy": [{
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}],
+		"Drop": []
+	}, {
+		"Name": "未确认坐标点X-C",
+		"AP": 4,
+		"Enemy": [{
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "剑之辉石", null, "睿智的种火(Saber)", null, "量子"]
+	}, {
+		"Name": "未确认坐标点X-B",
+		"AP": 4,
+		"Enemy": [{
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, null, null, null, null, "量子"]
+	}, {
+		"Name": "未确认坐标点X-E",
+		"AP": 5,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Rider"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": ["虚影之尘", null, null, null, null, null, "睿智的种火(Archer)", "睿智的种火(Rider)", "量子"]
+	}, {
+		"Name": "未确认坐标点X-D",
+		"AP": 5,
+		"Enemy": [{
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": ["凶骨", "剑之辉石", null, null, "睿智的种火(Archer)", "量子"]
+	}, {
+		"Name": "未确认坐标点X-F",
+		"AP": 6,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Lancer"
+		}, {
+			"Name": "影从者",
+			"Class": "Assassin"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": [null, null, null, null, null, null, null, null, null, null, "量子"]
+	}, {
+		"Name": "变动坐标点0号",
+		"AP": 7,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Saber"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Saber"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Archer"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, "龙牙", null, null, null, null, null, "睿智的种火(Saber)", "睿智的种火(Archer)", "睿智的种火(Assassin)", "量子"]
+	}, {
+		"Name": "未确认坐标点X-G",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": ["凶骨", "剑之辉石", "弓之辉石", "枪之辉石", "睿智的种火(Saber)", "睿智的种火(Lancer)", "睿智的种火(Archer)", "量子"]
+	}]
+}

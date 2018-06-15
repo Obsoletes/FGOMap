@@ -1,0 +1,130 @@
+{
+	"Name": "伦敦",
+	"Map": [{
+		"Name": "伦敦城",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "人工生命体",
+			"Class": "Lancer"
+		}],
+		"Drop": ["人工生命体幼体", "枪之辉石", "睿智的种火(Lancer)", "量子"]
+	}, {
+		"Name": "白色教堂",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Assassin"
+		}, {
+			"Name": "杀戮人偶",
+			"Class": "Assassin"
+		}, {
+			"Name": "自动人偶",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, "虚影之尘", null, "杀之辉石", null, null, "睿智的种火(Assassin)", "睿智的灯火(Assassin)", "量子"]
+	}, {
+		"Name": "旧街",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "杀戮人偶",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "睿智的种火(Assassin)", "量子"]
+	}, {
+		"Name": "摄政公园",
+		"AP": 16,
+		"Enemy": [{
+			"Name": "混沌机械兵",
+			"Class": "Saber"
+		}, {
+			"Name": "咒语书",
+			"Class": "Caster"
+		}, {
+			"Name": "混沌机械兵",
+			"Class": "Saber"
+		}],
+		"Drop": [null, "无间齿轮", null, "剑之辉石", "术之辉石", "睿智的种火(Saber)", "睿智的种火(Caster)", "量子"]
+	}, {
+		"Name": "苏活区",
+		"AP": 16,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Caster"
+		}, {
+			"Name": "人工生命体原型",
+			"Class": "Lancer"
+		}, {
+			"Name": "杀戮人偶",
+			"Class": "Assassin"
+		}, {
+			"Name": "人工生命体",
+			"Class": "Lancer"
+		}, {
+			"Name": "自动人偶",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, "无间齿轮", "虚影之尘", null, null, "枪之辉石", null, null, null, null, null, null, null, "量子"]
+	}, {
+		"Name": "威斯敏斯特",
+		"AP": 16,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Caster"
+		}, {
+			"Name": "人工生命体原型",
+			"Class": "Lancer"
+		}, {
+			"Name": "人工生命体",
+			"Class": "Lancer"
+		}],
+		"Drop": [null, "虚影之尘", null, "枪之辉石", null, null, null, "睿智的大火(Lancer)", "睿智的灯火(Caster)", "量子"]
+	}, {
+		"Name": "克勒肯维尔",
+		"AP": 18,
+		"Enemy": [{
+			"Name": "陈旧人偶",
+			"Class": "Assassin"
+		}, {
+			"Name": "杀戮人偶",
+			"Class": "Assassin"
+		}, {
+			"Name": "自动人偶",
+			"Class": "Assassin"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Saber"
+		}],
+		"Drop": ["无间齿轮", "凶骨", null, "杀之魔石", null, "杀之辉石", null, null, null, "量子"]
+	}, {
+		"Name": "萨瑟克",
+		"AP": 19,
+		"Enemy": [{
+			"Name": "人工生命体原型",
+			"Class": "Lancer"
+		}, {
+			"Name": "人工生命体",
+			"Class": "Lancer"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": ["人工生命体幼体", "凶骨", null, null, "枪之辉石", null, "睿智的大火(Lancer)", null, "量子"]
+	}, {
+		"Name": "海德公园",
+		"AP": 20,
+		"Enemy": [{
+			"Name": "魔导书",
+			"Class": "Caster"
+		}, {
+			"Name": "雷电咒书",
+			"Class": "Caster"
+		}, {
+			"Name": "咒语书",
+			"Class": "Caster"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Lancer"
+		}],
+		"Drop": ["禁断书页", "凶骨", null, "术之魔石", "枪之辉石", "术之辉石", "睿智的种火(Lancer)", "睿智的种火(Caster)", "睿智的灯火(Caster)", "睿智的大火(Caster)", "量子"]
+	}]
+}

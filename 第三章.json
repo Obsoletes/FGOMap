@@ -1,0 +1,178 @@
+{
+	"Name": "俄刻阿诺斯",
+	"Map": [{
+		"Name": "海盗船",
+		"AP": 12,
+		"Enemy": [{
+			"Name": "海盗",
+			"Class": "Saber"
+		}, {
+			"Name": "海盗",
+			"Class": "Archer"
+		}, {
+			"Name": "海盗首领",
+			"Class": "Saber"
+		}],
+		"Drop": ["英雄之证", null, null, "睿智的种火(Saber)", null, "量子"]
+	}, {
+		"Name": "地图上标记的岛",
+		"AP": 13,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Saber"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Archer"
+		}],
+		"Drop": [null, "龙牙", "剑之辉石", null, null, null, "睿智的种火(Saber)", null, "睿智的种火(Berserker)", "量子"]
+	}, {
+		"Name": "海盗岛",
+		"AP": 13,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Rider"
+		}, {
+			"Name": "海盗",
+			"Class": "Archer"
+		}, {
+			"Name": "海盗",
+			"Class": "Berserker"
+		}],
+		"Drop": [null, "英雄之证", null, null, null, null, null, null, "睿智的种火(Berserker)", "量子"]
+	}, {
+		"Name": "王者的居岛",
+		"AP": 13,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "海盗僵尸",
+			"Class": "Archer"
+		}, {
+			"Name": "海盗僵尸",
+			"Class": "Berserker"
+		}],
+		"Drop": ["虚影之尘", "英雄之证", "弓之辉石", null, null, "狂阶银棋", "睿智的种火(Archer)", null, null, "量子"]
+	}, {
+		"Name": "翼龙之岛",
+		"AP": 14,
+		"Enemy": [{
+			"Name": "恶魔飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "恐惧飞龙",
+			"Class": "Rider"
+		}, {
+			"Name": "双足飞龙",
+			"Class": "Rider"
+		}],
+		"Drop": ["龙牙", null, null, "睿智的种火(Rider)", "睿智的灯火(Rider)", "睿智的大火(Rider)", "量子"]
+	}, {
+		"Name": "潮眼之海",
+		"AP": 14,
+		"Enemy": [{
+			"Name": "金属魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "石魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "魔偶",
+			"Class": "Berserker"
+		}, {
+			"Name": "海盗",
+			"Class": "Archer"
+		}, {
+			"Name": "海盗首领",
+			"Class": "Archer"
+		}],
+		"Drop": [null, "英雄之证", null, null, null, "睿智的种火(Archer)", "睿智的种火(Berserker)", null, "量子"]
+	}, {
+		"Name": "暴风雨海域",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "恐怖鬼魂",
+			"Class": "Assassin"
+		}, {
+			"Name": "鬼魂",
+			"Class": "Assassin"
+		}],
+		"Drop": [null, null, "睿智的种火(Assassin)", null, "量子"]
+	}, {
+		"Name": "群岛(1)",
+		"AP": 15,
+		"Enemy": [{
+			"Name": "影从者",
+			"Class": "Caster"
+		}, {
+			"Name": "影从者",
+			"Class": "Berserker"
+		}, {
+			"Name": "龙牙兵",
+			"Class": "Saber"
+		}, {
+			"Name": "海盗僵尸",
+			"Class": "Saber"
+		}],
+		"Drop": [null, null, null, null, null, null, "术阶银棋", null, "睿智的种火(Saber)", null, "睿智的灯火(Berserker)", "量子"]
+	}, {
+		"Name": "群岛(2)",
+		"AP": 16,
+		"Enemy": [{
+			"Name": "千年寄居蟹",
+			"Class": "Saber"
+		}, {
+			"Name": "毒寄居蟹",
+			"Class": "Saber"
+		}, {
+			"Name": "大寄居蟹",
+			"Class": "Saber"
+		}],
+		"Drop": ["追忆的贝壳", null, "剑之辉石", null, "睿智的灯火(Saber)", "睿智的猛火(Saber)", "量子"]
+	}, {
+		"Name": "暗礁海域",
+		"AP": 17,
+		"Enemy": [{
+			"Name": "那伽",
+			"Class": "Caster"
+		}, {
+			"Name": "蛇女",
+			"Class": "Caster"
+		}, {
+			"Name": "骷髅兵",
+			"Class": "Archer"
+		}],
+		"Drop": [null, "凶骨", "术之魔石", null, null, null, null, null, "量子"]
+	}, {
+		"Name": "火山臼之岛",
+		"AP": 17,
+		"Enemy": [{
+			"Name": "半人马",
+			"Class": "Rider"
+		}, {
+			"Name": "狼人",
+			"Class": "Saber"
+		}],
+		"Drop": [null, null, null, "骑之辉石", "睿智的种火(Saber)", "睿智的种火(Rider)", "量子"]
+	}, {
+		"Name": "丰硕之海",
+		"AP": 18,
+		"Enemy": [{
+			"Name": "亚马逊队长",
+			"Class": "Archer"
+		}, {
+			"Name": "亚马逊队长",
+			"Class": "Lancer"
+		}, {
+			"Name": "亚马逊人",
+			"Class": "Saber"
+		}, {
+			"Name": "亚马逊人",
+			"Class": "Lancer"
+		}],
+		"Drop": ["凤凰羽毛", "世界树之种", "弓之魔石", "枪之魔石", "剑之辉石", "剑之辉石", null, null, "睿智的灯火(Lencer)", null, "量子"]
+	}]
+}
