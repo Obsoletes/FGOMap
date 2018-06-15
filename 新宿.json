@@ -4,84 +4,84 @@
 		"Name": "新宿御园",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "恶魔",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "流氓",
+			"Class": "Caster"
 		}],
 		"Drop": [null, null, null, "术之辉石", "睿智的灯火(Caster)", null, null, "量子"]
 	}, {
 		"Name": "新宿四丁目",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "超级奇美拉君",
+			"Class": "Berserker"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "小混混",
+			"Class": "Caster"
 		}],
 		"Drop": [null, "魔术髓液", null, "术之辉石", "睿智的灯火(Caster)", null, null, "量子"]
 	}, {
 		"Name": "新宿二丁目",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "观察机",
+			"Class": "Archer"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "魔导书",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "冰雪咒书",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "火焰咒书",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "疾风咒书",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雷电咒书",
+			"Class": "Caster"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "咒语书",
+			"Class": "Caster"
 		}],
 		"Drop": [null, "禁断书页", null, null, "术之辉石", null, null, null, null, null, "量子"]
 	}, {
 		"Name": "新宿站",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}],
 		"Drop": [null, "弓之魔石", null, "睿智的灯火(Archer)", null, "量子"]
 	}, {
 		"Name": "歌舞伎町",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "花腔歌手",
+			"Class": "Assassin"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "影从者",
+			"Class": "Berserker"
 		}],
 		"Drop": ["无间齿轮", "虚影之尘", "杀之魔石", "睿智的大火(Assassin)", null, "量子"]
 	}, {
 		"Name": "国道20号",
 		"AP": 0,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "影从者",
+			"Class": "Avenger"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}],
 		"Drop": ["虚影之尘", "魔术髓液", null, null, null, null, "量子"]
 	}, {
@@ -93,44 +93,44 @@
 		"Name": "代代木二丁目",
 		"AP": 20,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "小混混",
+			"Class": "Caster"
 		}],
 		"Drop": [null, "术之辉石", null, null, "量子"]
 	}, {
 		"Name": "舞会会场",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "影从者",
+			"Class": "Assassin"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "花腔歌手",
+			"Class": "Assassin"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "雀蜂",
+			"Class": "Archer"
 		}],
 		"Drop": [null, "虚影之尘", "魔术髓液", null, "杀之魔石", null, "睿智的大火(Archer)", "睿智的大火(Assassin)", "量子"]
 	}, {
 		"Name": "枪身塔",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "花腔歌手",
+			"Class": "Assassin"
 		}],
 		"Drop": ["无间齿轮", null, "睿智的大火(Assassin)", "量子"]
 	}, {
 		"Name": "塔顶楼",
 		"AP": 21,
 		"Enemy": [{
-			"Name": "",
-			"Class": ""
+			"Name": "李尔王",
+			"Class": "Saber"
 		}, {
-			"Name": "",
-			"Class": ""
+			"Name": "花腔歌手",
+			"Class": "Assassin"
 		}],
 		"Drop": [null, "无间齿轮", "剑之秘石", "杀之魔石", null, null, "量子"]
 	}]
